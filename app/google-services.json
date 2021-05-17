@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795935110396",
+    "project_id": "opaku-d8f85",
+    "storage_bucket": "opaku-d8f85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795935110396:android:da431d6d5faf9d709c9379",
+        "android_client_info": {
+          "package_name": "com.aditech.opaku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795935110396-ejrgth75siaijhpj8jprgjt8alpeiuat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHt5KNJ0pAIdIOysVZVBb395jQwk8WrfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795935110396-ejrgth75siaijhpj8jprgjt8alpeiuat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

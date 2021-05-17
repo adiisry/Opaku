@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Opaku</string>
+    <string name="login_title">Login</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="pp_title">Photo Profile</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_title">For Your Toddler</string>
+    <string name="username_title">Username</string>
+    <string name="password_title">Password</string>
+
+    <string name="judul_ob_satu">Order From Home</string>
+    <string name="judul_ob_dua">Consul with Customer Service</string>
+    <string name="judul_ob_tiga">Cash On Delivery</string>
+    <string name="isi_ob_satu">Stay Chill At Your Home</string>
+    <string name="isi_ob_dua">Ask Available Products</string>
+    <string name="isi_ob_tiga">Safety Payment Method</string>
+
+    <string name="btn_lanjut">Next</string>
+    <string name="btn_kembali">Back</string>
+    <string name="desc_title">Description</string>
+    <string name="buy">Buy Now</string>
+</resources>
