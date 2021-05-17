@@ -10,12 +10,9 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.aditech.opaku.BaseFragmentBinding
-import com.aditech.opaku.DetailActivity
 import com.aditech.opaku.R
 import com.aditech.opaku.adapter.BannerAdapter
 import com.aditech.opaku.adapter.GridAdapter
-import com.aditech.opaku.databinding.FragmentHomeBinding
 import com.aditech.opaku.model.Banner
 import com.aditech.opaku.model.Produk
 import com.aditech.opaku.utils.Preferences
@@ -24,9 +21,7 @@ import com.bumptech.glide.request.RequestOptions
 import com.google.firebase.analytics.FirebaseAnalytics
 import com.google.firebase.database.*
 import kotlinx.android.synthetic.main.fragment_home.*
-import java.text.NumberFormat
 import java.util.*
-import kotlinx.android.synthetic.main.fragment_home.view.*
 
 
 class HomeFragment : Fragment() {
